@@ -1,0 +1,12 @@
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.BussinesLogic\bin\Debug\netcoreapp3.1\Parqueadero.BussinesLogic.deps.json
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.BussinesLogic\bin\Debug\netcoreapp3.1\Parqueadero.BussinesLogic.dll
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.BussinesLogic\bin\Debug\netcoreapp3.1\Parqueadero.BussinesLogic.pdb
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.BussinesLogic\obj\Debug\netcoreapp3.1\Parqueadero.BussinesLogic.AssemblyInfoInputs.cache
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.BussinesLogic\obj\Debug\netcoreapp3.1\Parqueadero.BussinesLogic.AssemblyInfo.cs
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.BussinesLogic\obj\Debug\netcoreapp3.1\Parqueadero.BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.BussinesLogic\obj\Debug\netcoreapp3.1\Parqueadero.BussinesLogic.dll
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.BussinesLogic\obj\Debug\netcoreapp3.1\Parqueadero.BussinesLogic.pdb
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.BussinesLogic\bin\Debug\netcoreapp3.1\Parqueadero.Core.dll
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.BussinesLogic\bin\Debug\netcoreapp3.1\Parqueadero.Core.pdb
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.BussinesLogic\obj\Debug\netcoreapp3.1\Parqueadero.BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.BussinesLogic\obj\Debug\netcoreapp3.1\Parqueadero.BussinesLogic.csproj.CopyComplete

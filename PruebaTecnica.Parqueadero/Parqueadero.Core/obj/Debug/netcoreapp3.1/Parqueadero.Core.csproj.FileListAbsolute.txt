@@ -1,0 +1,9 @@
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.Core\bin\Debug\netcoreapp3.1\Parqueadero.Core.deps.json
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.Core\bin\Debug\netcoreapp3.1\Parqueadero.Core.dll
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.Core\bin\Debug\netcoreapp3.1\Parqueadero.Core.pdb
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.Core\obj\Debug\netcoreapp3.1\Parqueadero.Core.csproj.AssemblyReference.cache
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.Core\obj\Debug\netcoreapp3.1\Parqueadero.Core.AssemblyInfoInputs.cache
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.Core\obj\Debug\netcoreapp3.1\Parqueadero.Core.AssemblyInfo.cs
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.Core\obj\Debug\netcoreapp3.1\Parqueadero.Core.csproj.CoreCompileInputs.cache
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.Core\obj\Debug\netcoreapp3.1\Parqueadero.Core.dll
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.Core\obj\Debug\netcoreapp3.1\Parqueadero.Core.pdb

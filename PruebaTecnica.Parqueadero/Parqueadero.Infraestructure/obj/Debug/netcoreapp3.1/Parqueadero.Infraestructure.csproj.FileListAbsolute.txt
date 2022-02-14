@@ -1,0 +1,12 @@
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.Infraestructure\bin\Debug\netcoreapp3.1\Parqueadero.Infraestructure.deps.json
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.Infraestructure\bin\Debug\netcoreapp3.1\Parqueadero.Infraestructure.dll
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.Infraestructure\bin\Debug\netcoreapp3.1\Parqueadero.Infraestructure.pdb
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.Infraestructure\obj\Debug\netcoreapp3.1\Parqueadero.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.Infraestructure\obj\Debug\netcoreapp3.1\Parqueadero.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.Infraestructure\obj\Debug\netcoreapp3.1\Parqueadero.Infraestructure.AssemblyInfo.cs
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.Infraestructure\obj\Debug\netcoreapp3.1\Parqueadero.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.Infraestructure\obj\Debug\netcoreapp3.1\Parqueadero.Infraestructure.dll
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.Infraestructure\obj\Debug\netcoreapp3.1\Parqueadero.Infraestructure.pdb
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.Infraestructure\bin\Debug\netcoreapp3.1\Parqueadero.Core.dll
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.Infraestructure\bin\Debug\netcoreapp3.1\Parqueadero.Core.pdb
+C:\Users\KQuirogaA\Desktop\PRUEBA_COL\PruebaTecnica.Parqueadero\Parqueadero.Infraestructure\obj\Debug\netcoreapp3.1\Parqueadero.Infraestructure.csproj.CopyComplete

@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parqueadero.WebApi", "Parqueadero.WebApi\Parqueadero.WebApi.csproj", "{4EC1D5DE-6CFF-457D-8E25-16E0032F0E5D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parqueadero.Core", "Parqueadero.Core\Parqueadero.Core.csproj", "{0722DC78-8598-457B-B2AF-043E65F522E2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parqueadero.Infraestructure", "Parqueadero.Infraestructure\Parqueadero.Infraestructure.csproj", "{76DFE94D-234A-46EE-82BE-54F37337B8DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Presentation", "01.Presentation", "{FC3D4967-4B5F-4D6A-B03C-5A1CE68410A7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Core", "03.Core", "{8ABE668C-9AE4-4E1D-9A40-059DA0A5B535}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.Infraestructure", "04.Infraestructure", "{03FD64D1-2CA3-458D-BB92-6D54C0E82820}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.BussinesLogic", "02.BussinesLogic", "{92DC872C-5857-4C89-8A45-DFC36B285F9F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parqueadero.BussinesLogic", "Parqueadero.BussinesLogic\Parqueadero.BussinesLogic.csproj", "{320F65B3-5CAA-4E2E-BD96-5AF8F3031B97}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05.Database", "05.Database", "{3EA70859-4F5A-40BE-8193-36F53BA125CA}"
+	ProjectSection(SolutionItems) = preProject
+		Database\ScriptDB.sql = Database\ScriptDB.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EC1D5DE-6CFF-457D-8E25-16E0032F0E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EC1D5DE-6CFF-457D-8E25-16E0032F0E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EC1D5DE-6CFF-457D-8E25-16E0032F0E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EC1D5DE-6CFF-457D-8E25-16E0032F0E5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0722DC78-8598-457B-B2AF-043E65F522E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0722DC78-8598-457B-B2AF-043E65F522E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0722DC78-8598-457B-B2AF-043E65F522E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0722DC78-8598-457B-B2AF-043E65F522E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76DFE94D-234A-46EE-82BE-54F37337B8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76DFE94D-234A-46EE-82BE-54F37337B8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76DFE94D-234A-46EE-82BE-54F37337B8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76DFE94D-234A-46EE-82BE-54F37337B8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{320F65B3-5CAA-4E2E-BD96-5AF8F3031B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{320F65B3-5CAA-4E2E-BD96-5AF8F3031B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{320F65B3-5CAA-4E2E-BD96-5AF8F3031B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{320F65B3-5CAA-4E2E-BD96-5AF8F3031B97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4EC1D5DE-6CFF-457D-8E25-16E0032F0E5D} = {FC3D4967-4B5F-4D6A-B03C-5A1CE68410A7}
+		{0722DC78-8598-457B-B2AF-043E65F522E2} = {8ABE668C-9AE4-4E1D-9A40-059DA0A5B535}
+		{76DFE94D-234A-46EE-82BE-54F37337B8DE} = {03FD64D1-2CA3-458D-BB92-6D54C0E82820}
+		{320F65B3-5CAA-4E2E-BD96-5AF8F3031B97} = {92DC872C-5857-4C89-8A45-DFC36B285F9F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5024E901-C7E8-4FCC-943E-070A57DA9023}
+	EndGlobalSection
+EndGlobal

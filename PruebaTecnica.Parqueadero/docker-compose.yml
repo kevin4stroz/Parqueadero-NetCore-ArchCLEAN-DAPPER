@@ -1,0 +1,33 @@
+version: '3.5'
+
+networks:
+  localdev:
+    name: localdev
+
+services: 
+  parqueadero-api:
+    build: 
+      context: .
+      dockerfile: Parqueadero.WebApi/Dockerfile
+    restart: always
+    ports:
+      - "9999:5000"
+    depends_on:
+      - db-server
+    networks:
+      - localdev
+
+  db-server:
+    image: mcr.microsoft.com/mssql/server:2017-latest
+    container_name: db-server
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=Pru3baTecnica!!!
+      - MSSQL_TCP_PORT=1433
+    volumes:
+      - ./Database/Data:/var/opt/mssql/data
+    ports:
+      - "1400:1433"
+    networks:
+      - localdev
+  

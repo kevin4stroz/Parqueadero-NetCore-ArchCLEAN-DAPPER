@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Oycm5ltY4dR3Tx50QwhTXvF+MWDRDvakId9BicaQS1tSFe7RnkXvmaMD0vOkGRszCAPHE53JrjH8mo6k6tF/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KQuirogaA\\Desktop\\PRUEBA_COL\\Parqueadero-NetCore-ArchCLEAN-DAPPER\\PruebaTecnica.Parqueadero\\Parqueadero.BussinesLogic\\Parqueadero.BussinesLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KQuirogaA\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\KQuirogaA\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\KQuirogaA\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\KQuirogaA\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\KQuirogaA\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\KQuirogaA\\.nuget\\packages\\system.text.json\\6.0.2\\system.text.json.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
